@@ -5,11 +5,11 @@ Thời gian bắt đầu: 05/10/2023
 Thời gian kết thúc (dự kiến): 12/2023
 
 # ĐỒ ÁN TỐT NGHIỆP
-**Đề tài: Dùng thuật toán di truyền để tìm trọng số cho mạng nơ-ron tế bào\
-Sinh viên: Phạm Duy Tuấn\
-Mã sinh viên: B19DCCN618\
-Lớp: B19CNPM02\
-Giáo viên hướng dẫn: Nguyễn Quang Hoan**
+**<br>Đề tài: Dùng thuật toán di truyền để tìm trọng số cho mạng nơ-ron tế bào</br>
+<br>Sinh viên: Phạm Duy Tuấn</br>
+<br>Mã sinh viên: B19DCCN618</br>
+<br>Lớp: B19CNPM02</br>
+<br>Giáo viên hướng dẫn: Nguyễn Quang Hoan</br>**
 
 ## Mục lục
 [Các thuật ngữ](#ThuatNgu)
