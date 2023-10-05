@@ -8,4 +8,4 @@ Các thuật ngữ:
 - Mạng nơ-ron tế bào (neural networks)
 - Trọng số trong mạng nơ-ron tế bào
 
-Giảng viên hướng dẫn: Thầy Nguyễn Công Hoan
+Giảng viên hướng dẫn: Thầy Nguyễn Công Hoan 
