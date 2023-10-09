@@ -18,5 +18,12 @@ Thời gian kết thúc (dự kiến): 12/2023
 <a name="ThuatNgu"></a>
 ## Các thuật ngữ
 - Thuật toán di truyền
-- Mạng nơ-ron tế bào (neural networks)
+- Mạng nơ-ron tế bào (cellular neural networks)
 - Trọng số trong mạng nơ-ron tế bào
+- Tích chập hai ma trận (convolve)
+- Phương trình vi phân thường: ODE
+
+<a name="TaiLieu"></a>
+## các tài liệu
+- <a src="https://mathworld.wolfram.com/AdamsMethod.html">Phương pháp Adams để giải phương trình vi phân</a>
+- <a src="https://github.com/ankitaggarwal011/PyCNN">Github project tham khảo</a>
