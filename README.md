@@ -17,7 +17,7 @@ Thời gian kết thúc (dự kiến): 12/2023
 
 ===================================
 <a name="ThuatNgu"></a>
-## Các thuật ngữ
+## Thuật ngữ
 - Thuật toán di truyền
 - Mạng nơ-ron tế bào (cellular neural networks (CeNN))
 - Trọng số trong mạng nơ-ron tế bào
@@ -25,6 +25,6 @@ Thời gian kết thúc (dự kiến): 12/2023
 - Phương trình vi phân thường: ODE
 
 <a name="TaiLieu"></a>
-## các tài liệu
+## Tài liệu
 - [Phương pháp Adams để giải phương trình vi phân](https://mathworld.wolfram.com/AdamsMethod.html)
 - [Github project tham khảo](https://github.com/ankitaggarwal011/PyCNN)
