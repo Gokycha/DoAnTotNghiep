@@ -19,7 +19,7 @@ Thời gian kết thúc (dự kiến): 12/2023
 <a name="ThuatNgu"></a>
 ## Các thuật ngữ
 - Thuật toán di truyền
-- Mạng nơ-ron tế bào (cellular neural networks)
+- Mạng nơ-ron tế bào (cellular neural networks (CeNN))
 - Trọng số trong mạng nơ-ron tế bào
 - Tích chập hai ma trận (convolve)
 - Phương trình vi phân thường: ODE
