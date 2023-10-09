@@ -12,8 +12,8 @@ Thời gian kết thúc (dự kiến): 12/2023
 <br>Giáo viên hướng dẫn: Nguyễn Quang Hoan</br>**
 
 ## Mục lục
-[Các thuật ngữ](#ThuatNgu)
-[Tài liệu](#TaiLieu)
+<br>[Các thuật ngữ](#ThuatNgu)</br>
+<br>[Tài liệu](#TaiLieu)</br>
 
 ===================================
 <a name="ThuatNgu"></a>
