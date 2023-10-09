@@ -13,6 +13,7 @@ Thời gian kết thúc (dự kiến): 12/2023
 
 ## Mục lục
 [Các thuật ngữ](#ThuatNgu)
+[Tài liệu](#TaiLieu)
 
 ===================================
 <a name="ThuatNgu"></a>
@@ -25,5 +26,5 @@ Thời gian kết thúc (dự kiến): 12/2023
 
 <a name="TaiLieu"></a>
 ## các tài liệu
-- <a src="https://mathworld.wolfram.com/AdamsMethod.html">Phương pháp Adams để giải phương trình vi phân</a>
-- <a src="https://github.com/ankitaggarwal011/PyCNN">Github project tham khảo</a>
+- [Phương pháp Adams để giải phương trình vi phân](https://mathworld.wolfram.com/AdamsMethod.html)
+- [Github project tham khảo](https://github.com/ankitaggarwal011/PyCNN)
