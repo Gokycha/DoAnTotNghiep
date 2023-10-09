@@ -25,6 +25,6 @@ Thời gian kết thúc (dự kiến): 12/2023
 - Phương trình vi phân thường: ODE
 
 <a name="TaiLieu"></a>
-## các tài liệu
+## Các tài liệu
 - [Phương pháp Adams để giải phương trình vi phân](https://mathworld.wolfram.com/AdamsMethod.html)
 - [Github project tham khảo](https://github.com/ankitaggarwal011/PyCNN)
