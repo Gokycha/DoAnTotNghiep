@@ -40,3 +40,7 @@ Thuật toán tối ưu một trọng số
 - Với mỗi cặp cha mẹ, lai được một con, đưa con vào quần thể thay cho trọng số đang xét. Tính lại ma trận đầu ra và sai số.  
 - Tìm ra con trong S cặp cha mạ mà khi thay vào quần thể cho ra trọng số nhỏ nhất.
 - So sánh Emin với E (sai số hiện tại), nếu nhỏ hơn, cập nhật lại toàn bộ dữ liệu theo trọng số con. Nếu không, giữ nguyên toàn bộ.
+
+- aaa
+  + aaaaa
+  + h
