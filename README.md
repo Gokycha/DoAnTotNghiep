@@ -43,19 +43,19 @@ Thuật toán tối ưu một trọng số
 
 Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất:
 - Về ma trận đầu vào:
-+ Ma trận đầu vào 10x10 luôn cho ra được bộ trọng số có thể dùng để lọc biên. 
-+ Dùng ma trận đầu vào 12x12 trở lên thì chắc chắn sẽ bị lỗi phương trình vi phân.
-+ Ma trận đầu vào 8x8 không gặp lỗi, tìm ra trọng số rất nhanh nhưng chỉ có 25% bộ trọng số tìm được là có thể dùng để lọc biên.
-+ Ma trận đầu vào 6x6 trở xuống thì không cho ra bộ trọng số có thể lọc biên.
-+ Nhận xét: Ma trận đầu vào 10x10 là tốt nhất (trong code [demo](/TimTrongSo.ipynb) thì ảnh đầu vào u2 là ma trận 10x10)
+  + Ma trận đầu vào 10x10 luôn cho ra được bộ trọng số có thể dùng để lọc biên. 
+  + Dùng ma trận đầu vào 12x12 trở lên thì chắc chắn sẽ bị lỗi phương trình vi phân.
+  + Ma trận đầu vào 8x8 không gặp lỗi, tìm ra trọng số rất nhanh nhưng chỉ có 25% bộ trọng số tìm được là có thể dùng để lọc biên.
+  + Ma trận đầu vào 6x6 trở xuống thì không cho ra bộ trọng số có thể lọc biên.
+  + Nhận xét: Ma trận đầu vào 10x10 là tốt nhất (trong code [demo](/TimTrongSo.ipynb) thì ảnh đầu vào u2 là ma trận 10x10)
 - Về bộ trọng số:
-+ Các bộ trọng số có thể dùng để lọc biên nằm trong file [TrongSoToiUu](/TrongSoToiUu) (chỉ lưu trọng số sau khi chạy, không lưu trọng số ban đầu)
-+ Từ bộ trọng số thứ nhất đến thứ 8 đều được chạy với bộ trọng số ban đầu ngẫu nhiên
-+ Từ bộ thứ 9 trử đi, trọng số ban đầu được dùng là A=[[0,0,0],[0,2,0],[0,0,0]], B=[[0,0,0],[0,0,0],[0,0,0]], I=-1.
+  + Các bộ trọng số có thể dùng để lọc biên nằm trong file [TrongSoToiUu](/TrongSoToiUu) (chỉ lưu trọng số sau khi chạy, không lưu trọng số ban đầu)
+  + Từ bộ trọng số thứ nhất đến thứ 8 đều được chạy với bộ trọng số ban đầu ngẫu nhiên
+  + Từ bộ thứ 9 trử đi, trọng số ban đầu được dùng là A=[[0,0,0],[0,2,0],[0,0,0]], B=[[0,0,0],[0,0,0],[0,0,0]], I=-1.
 - Về các tham số khác:
-+ Sai số E0: 4.0
-+ Số bộ cha mẹ mỗi lần xét một trọng số: 20
-+ Nhận xét: Việc tăng số lượng bộ cha mẹ sẽ làm tăng thời gian chạy của vòng lặp nhỏ (tối ưu một trọng số). Nhưng làm giảm số lần chạy của vòng lặp lớn (duyệt toàn bộ các trọng số trong quần thể). Con số tối ưu cho số lượng cha mẹ là khoảng 20.
+  + Sai số E0: 4.0
+  + Số bộ cha mẹ mỗi lần xét một trọng số: 20
+  + Nhận xét: Việc tăng số lượng bộ cha mẹ sẽ làm tăng thời gian chạy của vòng lặp nhỏ (tối ưu một trọng số). Nhưng làm giảm số lần chạy của vòng lặp lớn (duyệt toàn bộ các trọng số trong quần thể). Con số tối ưu cho số lượng cha mẹ là khoảng 20.
 - Kết luận chung: Kết quả tốt, tìm được nhiều bộ trọng số có thể lọc biên ảnh. Cần có thuật toán để chọn cha mẹ và điểm lai thay vì chọn ngẫu nhiên. Tạm thời đóng lại phần mạng Nơ-ron tế bào bậc nhất.
 
 Tiến độ hiện tại với mạng Nơ-ron tế bào bậc hai:
