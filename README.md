@@ -47,9 +47,9 @@ Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất:
 + Dùng ma trận đầu vào 12x12 trở lên thì chắc chắn sẽ bị lỗi phương trình vi phân.
 + Ma trận đầu vào 8x8 không gặp lỗi, tìm ra trọng số rất nhanh nhưng chỉ có 25% bộ trọng số tìm được là có thể dùng để lọc biên.
 + Ma trận đầu vào 6x6 trở xuống thì không cho ra bộ trọng số có thể lọc biên.
-+ Nhận xét: Ma trận đầu vào 10x10 là tốt nhất (trong code demo thì ảnh đầu vào u2 là ma trận 10x10)
++ Nhận xét: Ma trận đầu vào 10x10 là tốt nhất (trong code [demo](/TimTrongSo.ipynb) thì ảnh đầu vào u2 là ma trận 10x10)
 - Về bộ trọng số:
-+ Các bộ trọng số có thể dùng để lọc biên nằm trong file TrongSoToiUu (chỉ lưu trọng số sau khi chạy, không lưu trọng số ban đầu)
++ Các bộ trọng số có thể dùng để lọc biên nằm trong file [TrongSoToiUu](/TrongSoToiUu) (chỉ lưu trọng số sau khi chạy, không lưu trọng số ban đầu)
 + Từ bộ trọng số thứ nhất đến thứ 8 đều được chạy với bộ trọng số ban đầu ngẫu nhiên
 + Từ bộ thứ 9 trử đi, trọng số ban đầu được dùng là A=[[0,0,0],[0,2,0],[0,0,0]], B=[[0,0,0],[0,0,0],[0,0,0]], I=-1.
 - Về các tham số khác:
