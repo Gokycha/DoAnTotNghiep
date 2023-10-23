@@ -47,9 +47,9 @@ Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất (CeNN)
   - Dùng ma trận đầu vào 12x12 trở lên thì chắc chắn sẽ bị lỗi phương trình vi phân.
   - Ma trận đầu vào 8x8 không gặp lỗi, tìm ra trọng số rất nhanh nhưng chỉ có 25% bộ trọng số tìm được là có thể dùng để lọc biên.
   - Ma trận đầu vào 6x6 trở xuống thì không cho ra bộ trọng số có thể lọc biên.
-  - Nhận xét: Ma trận đầu vào 10x10 là tốt nhất (trong code [demo](/TimTrongSo.ipynb) thì ảnh đầu vào u2 là ma trận 10x10)
+  - Nhận xét: Ma trận đầu vào 10x10 là tốt nhất (trong code [demo](/MangNoronTeBaoBacNhat.ipynb) thì ảnh đầu vào u2 là ma trận 10x10)
 - Về bộ trọng số:
-  - Các bộ trọng số có thể dùng để lọc biên nằm trong file [TrongSoToiUu](/TrongSoToiUu) (chỉ lưu trọng số sau khi chạy, không lưu trọng số ban đầu)
+  - Các bộ trọng số có thể dùng để lọc biên nằm trong file [TrongSoBac1ToiUu](/TrongSoBac1ToiUu) (chỉ lưu trọng số sau khi chạy, không lưu trọng số ban đầu)
   - Từ bộ trọng số thứ nhất đến thứ 8 đều được chạy với bộ trọng số ban đầu ngẫu nhiên
   - Từ bộ thứ 9 trử đi, trọng số ban đầu được dùng là A=[[0,0,0],[0,2,0],[0,0,0]], B=[[0,0,0],[0,0,0],[0,0,0]], I=-1.
 - Về các tham số khác:
@@ -59,4 +59,15 @@ Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất (CeNN)
 - Kết luận chung: Kết quả tốt, tìm được nhiều bộ trọng số có thể lọc biên ảnh. Cần có thuật toán để chọn cha mẹ và điểm lai thay vì chọn ngẫu nhiên. Tạm thời đóng lại phần mạng Nơ-ron tế bào bậc nhất.
 
 Tiến độ hiện tại với mạng Nơ-ron tế bào bậc hai (SOCNNs)
-- Đang code
+- Về ma trận đầu vào: 
+  - chạy được với ma trận 8x8 và 10x10 (chỉ cần giảm độ chênh lệch giữa t0 với t1 là sẽ giảm được tỉ lệ bị lỗi phương trình vi phân)
+  - ma trận 10x10 thường xuyên gặp lỗi phương trình vi phân, ma trận 8x8 ít khi gặp lỗi
+  - Nhận xét: lấy ma trận 8x8 làm đầu vào mặc định
+- Về bộ trọng số: 
+  - mọi bộ trọng số tìm đc với đầu vào 8x8 đều có thể lọc biên  => tối ưu hơn bậc nhất (đầu vào 8x8 bậc nhất chỉ cho ra 25% bộ trọng số lọc đc biên)
+  - Nhận xét: Biên lọc đc từ bộ trọng số bậc 2 mịn thường mịn hơn so với bậc nhất, nhưng có nhiều bộ cho ra biên bị đứt quãng (có ảnh trong [TrongSoBac2ToiUu](/TrongSoBac2ToiUu))
+- Về các tham số khác:
+  - Sai số E0: 6.0
+  - Số bộ cha mẹ: 2 (lúc đầu đặt bằng 5 nhưng rồi thấy không hiệu quả, nên chuyển về 2 thì tổng thời gian chạy giảm đi)
+- Kết luận: 
+
