@@ -41,7 +41,7 @@ Thuật toán tối ưu một trọng số
 - Tìm ra con trong S cặp cha mạ mà khi thay vào quần thể cho ra trọng số nhỏ nhất.
 - So sánh Emin với E (sai số hiện tại), nếu nhỏ hơn, cập nhật lại toàn bộ dữ liệu theo trọng số con. Nếu không, giữ nguyên toàn bộ.
 
-Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất (CeNN)
+Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất (CeNN) chạy GA lai
 - Về ma trận đầu vào:
   - Ma trận đầu vào 10x10 luôn cho ra được bộ trọng số có thể dùng để lọc biên. 
   - Dùng ma trận đầu vào 12x12 trở lên thì chắc chắn sẽ bị lỗi phương trình vi phân.
@@ -58,7 +58,7 @@ Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất (CeNN)
   - Nhận xét: Việc tăng số lượng bộ cha mẹ sẽ làm tăng thời gian chạy của vòng lặp nhỏ (tối ưu một trọng số). Nhưng làm giảm số lần chạy của vòng lặp lớn (duyệt toàn bộ các trọng số trong quần thể). Con số tối ưu cho số lượng cha mẹ là khoảng 20.
 - Kết luận chung: Kết quả tốt, tìm được nhiều bộ trọng số có thể lọc biên ảnh. Cần có thuật toán để chọn cha mẹ và điểm lai thay vì chọn ngẫu nhiên. Tạm thời đóng lại phần mạng Nơ-ron tế bào bậc nhất.
 
-Tiến độ hiện tại với mạng Nơ-ron tế bào bậc hai (SOCNNs)
+Tiến độ hiện tại với mạng Nơ-ron tế bào bậc hai (SOCNNs) chạy GA lai
 - Về ma trận đầu vào: 
   - chạy được với ma trận 8x8 và 10x10 (chỉ cần giảm độ chênh lệch giữa t0 với t1 là sẽ giảm được tỉ lệ bị lỗi phương trình vi phân)
   - ma trận 10x10 thường xuyên gặp lỗi phương trình vi phân, ma trận 8x8 ít khi gặp lỗi
