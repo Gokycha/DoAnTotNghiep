@@ -1,0 +1,1754 @@
+Bộ trọng số ban đầu: 
+A = [[0. 0. 0.]
+ [0. 2. 0.]
+ [0. 0. 0.]]
+B = [[0. 0. 0.]
+ [0. 0. 0.]
+ [0. 0. 0.]]
+I = 1.0
+Tổng sai số ban đầu: 192.0
+Lần chạy thứ 1
+Xét trọng số thứ 1 của ma trận A:
+Tập cha mẹ: [[-1.55, 1.54], [1.01, -6.61], [2.94, 3.56], [-0.52, -5.2], [0.5, -1.79], [-2.15, -6.33], [2.81, 9.77], [-7.36, 7.75], [-6.13, -8.8], [-8.62, 7.33], [-1.84, 9.96], [-0.56, -6.61], [9.96, -5.56], [-1.22, 3.5], [0.79, -7.99], [-8.83, -9.35], [5.95, -0.42], [-2.48, 5.81], [-6.02, -7.69], [-8.45, 1.42]]
+Tập con: [-2.54, 1.61, 2.56, -1.2, 0.79, -3.33, 2.77, -8.75, -7.8, -9.33, -2.96, -1.61, 9.56, -2.5, 0.99, -9.35, 5.42, -3.81, -7.69, -9.42]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = -2.54 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 1.61 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 2.56 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -1.2 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 0.79 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -3.33 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 2.77 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -8.75 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -7.8 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -9.33 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.96 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -1.61 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 9.56 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.5 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 0.99 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -9.35 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 5.42 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -3.81 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -7.69 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -9.42 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số: [26.0, 20.0, 24.0, 52.0, 70.0]. Tổng: 192.0
+Lần chạy thứ 1
+Xét trọng số thứ 2 của ma trận A:
+Tập cha mẹ: [[1.61, -2.75], [-6.4, 2.3], [-1.25, 1.41], [-7.79, 6.42], [3.35, -5.31], [7.12, -0.81], [-6.09, 3.98], [-1.98, -7.9], [0.43, 8.97], [-8.26, -9.82], [-0.49, -4.8], [-1.2, -0.47], [-0.4, -0.66], [9.55, 6.41], [6.1, 9.6], [3.32, -3.19], [-5.59, -1.0], [-3.67, -4.8], [9.04, -9.73], [0.33, -6.83]]
+Tập con: [1.75, -7.3, -2.41, -8.42, 3.31, 7.81, -7.98, -2.9, 0.97, -9.82, -1.8, -2.47, -1.66, 9.41, 6.6, 3.19, -6.0, -4.8, 9.73, 0.83]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = 1.75 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -7.3 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.41 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -8.42 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 3.31 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 7.81 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -7.98 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.9 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 0.97 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -9.82 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -1.8 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.47 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -1.66 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 9.41 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 6.6 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 3.19 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -6.0 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -4.8 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 9.73 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 0.83 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số: [26.0, 20.0, 24.0, 52.0, 70.0]. Tổng: 192.0
+Lần chạy thứ 1
+Xét trọng số thứ 3 của ma trận A:
+Tập cha mẹ: [[5.71, -9.21], [8.79, -7.53], [-3.73, -7.04], [5.64, -6.7], [-2.12, -1.92], [-5.34, 0.88], [4.83, 0.43], [-1.75, 5.54], [-0.38, -9.98], [-1.44, 1.69], [-2.35, -6.16], [4.7, -4.17], [-9.96, -6.27], [4.76, -3.42], [9.01, -7.56], [7.8, 2.88], [-1.79, 3.26], [1.77, -0.19], [4.89, -7.57], [-6.67, 8.91]]
+Tập con: [5.21, 8.53, -4.04, 5.7, -3.92, -6.88, 4.43, -2.54, -1.98, -2.69, -3.16, 4.17, -10.27, 4.42, 9.56, 7.88, -2.26, 1.19, 4.57, -7.91]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = 5.21 là: E = [28.0, 28.0, 24.0, 52.0, 70.0], tổng sai số: 202.0
+Sai số ứng với con = 8.53 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -4.04 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 5.7 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -3.92 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -6.88 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 4.43 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.54 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -1.98 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.69 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -3.16 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 4.17 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -10.27 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 4.42 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 9.56 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 7.88 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -2.26 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 1.19 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = 4.57 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số ứng với con = -7.91 là: E = [26.0, 20.0, 24.0, 52.0, 70.0], tổng sai số: 192.0
+Sai số: [26.0, 20.0, 24.0, 52.0, 70.0]. Tổng: 192.0
+Lần chạy thứ 1
+Xét trọng số thứ 4 của ma trận A:
+Tập cha mẹ: [[-9.75, -5.07], [-7.51, 9.38], [-8.8, 0.1], [9.45, -1.79], [-1.34, 6.73], [6.06, -9.22], [4.41, -7.04], [-4.41, -5.53], [5.13, -6.63], [-2.9, 2.89], [5.77, -3.19], [-2.13, 4.45], [-7.15, 9.67], [1.46, -4.98], [-3.56, -8.07], [8.55, -3.27], [-5.52, 6.45], [-0.65, 9.38], [8.08, 1.58], [-2.07, 4.12]]
+Tập con: [-10.07, -8.38, -9.1, 9.79, -2.73, 6.22, 4.04, -5.53, 5.63, -3.89, 5.19, -3.45, -8.67, 1.98, -4.07, 8.27, -6.45, -1.38, 8.58, -3.12]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = -10.07 là: E = [28.0, 38.0, 34.0, 44.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -8.38 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = -9.1 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = 9.79 là: E = [22.0, 34.0, 36.0, 54.0, 52.0], tổng sai số: 198.0
+Sai số ứng với con = -2.73 là: E = [28.0, 36.0, 32.0, 50.0, 40.0], tổng sai số: 186.0
+Sai số ứng với con = 6.22 là: E = [22.0, 34.0, 34.0, 50.0, 44.0], tổng sai số: 184.0
+Sai số ứng với con = 4.04 là: E = [20.0, 32.0, 34.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số ứng với con = -5.53 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = 5.63 là: E = [20.0, 34.0, 36.0, 50.0, 44.0], tổng sai số: 184.0
+Sai số ứng với con = -3.89 là: E = [28.0, 38.0, 32.0, 48.0, 40.0], tổng sai số: 186.0
+Sai số ứng với con = 5.19 là: E = [20.0, 32.0, 36.0, 50.0, 44.0], tổng sai số: 182.0
+Sai số ứng với con = -3.45 là: E = [28.0, 36.0, 32.0, 48.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -8.67 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = 1.98 là: E = [22.0, 34.0, 30.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số ứng với con = -4.07 là: E = [28.0, 38.0, 34.0, 46.0, 40.0], tổng sai số: 186.0
+Sai số ứng với con = 8.27 là: E = [22.0, 34.0, 34.0, 54.0, 48.0], tổng sai số: 192.0
+Sai số ứng với con = -6.45 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = -1.38 là: E = [26.0, 36.0, 32.0, 52.0, 42.0], tổng sai số: 188.0
+Sai số ứng với con = 8.58 là: E = [22.0, 34.0, 34.0, 54.0, 50.0], tổng sai số: 194.0
+Sai số ứng với con = -3.12 là: E = [28.0, 36.0, 32.0, 50.0, 40.0], tổng sai số: 186.0
+Sai số: [22.0, 34.0, 30.0, 50.0, 42.0]. Tổng: 178.0
+Lần chạy thứ 1
+Xét trọng số thứ 5 của ma trận A:
+Tập cha mẹ: [[-1.37, 3.7], [-8.22, -6.71], [5.22, 1.53], [-8.3, 2.69], [-1.28, 5.36], [-6.66, 7.58], [0.48, -6.78], [4.25, 2.74], [0.95, -8.34], [-0.52, 4.4], [-4.9, 9.37], [-9.29, -2.35], [2.14, 1.97], [0.9, -7.18], [-4.31, -8.6], [2.89, -7.06], [2.72, 4.91], [3.83, -9.63], [0.56, 6.49], [4.36, 0.02]]
+Tập con: [-2.7, -9.71, 5.53, -9.69, -2.36, -7.58, 0.78, 4.74, 0.34, -1.4, -5.37, -10.35, 2.97, 0.18, -5.6, 2.06, 2.91, 3.63, 0.49, 4.02]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = -2.7 là: E = [28.0, 36.0, 32.0, 50.0, 40.0], tổng sai số: 186.0
+Sai số ứng với con = -9.71 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = 5.53 là: E = [20.0, 34.0, 36.0, 50.0, 44.0], tổng sai số: 184.0
+Sai số ứng với con = -9.69 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = -2.36 là: E = [28.0, 36.0, 32.0, 50.0, 42.0], tổng sai số: 188.0
+Sai số ứng với con = -7.58 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = 0.78 là: E = [24.0, 34.0, 30.0, 50.0, 42.0], tổng sai số: 180.0
+Sai số ứng với con = 4.74 là: E = [20.0, 32.0, 36.0, 50.0, 42.0], tổng sai số: 180.0
+Sai số ứng với con = 0.34 là: E = [24.0, 34.0, 30.0, 52.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = -1.4 là: E = [26.0, 36.0, 32.0, 52.0, 42.0], tổng sai số: 188.0
+Sai số ứng với con = -5.37 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = -10.35 là: E = [28.0, 38.0, 34.0, 40.0, 40.0], tổng sai số: 180.0
+Sai số ứng với con = 2.97 là: E = [20.0, 32.0, 32.0, 50.0, 42.0], tổng sai số: 176.0
+Sai số ứng với con = 0.18 là: E = [24.0, 34.0, 30.0, 52.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = -5.6 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = 2.06 là: E = [22.0, 34.0, 30.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số ứng với con = 2.91 là: E = [20.0, 32.0, 32.0, 50.0, 42.0], tổng sai số: 176.0
+Sai số ứng với con = 3.63 là: E = [20.0, 32.0, 34.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số ứng với con = 0.49 là: E = [24.0, 34.0, 30.0, 52.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = 4.02 là: E = [20.0, 32.0, 34.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số: [20.0, 32.0, 32.0, 50.0, 42.0]. Tổng: 176.0
+Lần chạy thứ 1
+Xét trọng số thứ 1 của ma trận B:
+Tập cha mẹ: [[6.49, -5.75], [5.35, -5.37], [7.56, -9.7], [-7.56, -9.52], [-1.16, -6.27], [-8.28, 8.02], [2.75, 3.45], [7.36, 2.85], [4.79, 4.94], [-8.08, -2.0], [8.92, 8.58], [3.27, -2.15], [-4.87, -4.48], [-7.93, -2.98], [-6.43, -0.5], [1.48, -7.72], [1.27, 7.16], [-5.87, 0.43], [-2.85, -6.38], [-1.2, -0.58]]
+Tập con: [6.75, 5.37, 7.7, -8.52, -2.27, -9.02, 2.45, 7.85, 4.94, -9.0, 8.58, 3.15, -5.48, -8.98, -7.5, 1.72, 1.16, -6.43, -3.38, -2.58]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = 6.75 là: E = [28.0, 46.0, 28.0, 60.0, 76.0], tổng sai số: 238.0
+Sai số ứng với con = 5.37 là: E = [20.0, 32.0, 36.0, 50.0, 44.0], tổng sai số: 182.0
+Sai số ứng với con = 7.7 là: E = [22.0, 34.0, 34.0, 52.0, 48.0], tổng sai số: 190.0
+Sai số ứng với con = -8.52 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = -2.27 là: E = [28.0, 36.0, 32.0, 50.0, 42.0], tổng sai số: 188.0
+Sai số ứng với con = -9.02 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = 2.45 là: E = [22.0, 34.0, 30.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số ứng với con = 7.85 là: E = [22.0, 34.0, 34.0, 52.0, 48.0], tổng sai số: 190.0
+Sai số ứng với con = 4.94 là: E = [20.0, 32.0, 36.0, 50.0, 44.0], tổng sai số: 182.0
+Sai số ứng với con = -9.0 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = 8.58 là: E = [22.0, 34.0, 34.0, 54.0, 50.0], tổng sai số: 194.0
+Sai số ứng với con = 3.15 là: E = [20.0, 32.0, 34.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số ứng với con = -5.48 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = -8.98 là: E = [28.0, 38.0, 34.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = -7.5 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = 1.72 là: E = [22.0, 34.0, 30.0, 50.0, 42.0], tổng sai số: 178.0
+Sai số ứng với con = 1.16 là: E = [24.0, 34.0, 30.0, 50.0, 42.0], tổng sai số: 180.0
+Sai số ứng với con = -6.43 là: E = [28.0, 38.0, 34.0, 46.0, 38.0], tổng sai số: 184.0
+Sai số ứng với con = -3.38 là: E = [28.0, 36.0, 32.0, 48.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -2.58 là: E = [28.0, 36.0, 32.0, 50.0, 40.0], tổng sai số: 186.0
+Sai số: [20.0, 32.0, 32.0, 50.0, 42.0]. Tổng: 176.0
+Lần chạy thứ 1
+Xét trọng số thứ 2 của ma trận B:
+Tập cha mẹ: [[-3.27, 4.84], [5.71, -7.19], [4.56, 9.05], [-6.54, -6.18], [6.98, -2.89], [-6.4, 0.97], [9.59, -8.63], [6.83, -0.9], [-2.62, 9.59], [-3.66, -8.38], [-8.23, -4.8], [2.84, 2.69], [4.26, -1.65], [-4.98, 9.87], [-2.6, 9.65], [7.27, -7.79], [-8.88, -7.91], [-4.91, 7.59], [0.21, -2.52], [-4.89, 3.26]]
+Tập con: [-4.84, 5.19, 4.05, -7.18, 6.89, -7.97, 9.63, 6.9, -3.59, -4.38, -9.8, 2.69, 4.65, -5.87, -3.65, 7.79, -9.91, -5.59, 0.52, -5.26]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = -4.84 là: E = [26.0, 28.0, 32.0, 30.0, 32.0], tổng sai số: 148.0
+Sai số ứng với con = 5.19 là: E = [26.0, 30.0, 30.0, 34.0, 36.0], tổng sai số: 156.0
+Sai số ứng với con = 4.05 là: E = [26.0, 30.0, 30.0, 36.0, 34.0], tổng sai số: 156.0
+Sai số ứng với con = -7.18 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = 6.89 là: E = [26.0, 30.0, 30.0, 38.0, 38.0], tổng sai số: 162.0
+Sai số ứng với con = -7.97 là: E = [34.0, 36.0, 34.0, 42.0, 44.0], tổng sai số: 190.0
+Sai số ứng với con = 9.63 là: E = [26.0, 28.0, 26.0, 42.0, 40.0], tổng sai số: 162.0
+Sai số ứng với con = 6.9 là: E = [26.0, 30.0, 30.0, 38.0, 38.0], tổng sai số: 162.0
+Sai số ứng với con = -3.59 là: E = [32.0, 32.0, 36.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = -4.38 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -9.8 là: E = [34.0, 36.0, 34.0, 40.0, 50.0], tổng sai số: 194.0
+Sai số ứng với con = 2.69 là: E = [26.0, 28.0, 32.0, 30.0, 22.0], tổng sai số: 138.0
+Sai số ứng với con = 4.65 là: E = [26.0, 30.0, 30.0, 36.0, 36.0], tổng sai số: 158.0
+Sai số ứng với con = -5.87 là: E = [32.0, 34.0, 34.0, 40.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = -3.65 là: E = [32.0, 32.0, 36.0, 42.0, 40.0], tổng sai số: 182.0
+Sai số ứng với con = 7.79 là: E = [28.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 166.0
+Sai số ứng với con = -9.91 là: E = [34.0, 36.0, 36.0, 40.0, 50.0], tổng sai số: 196.0
+Sai số ứng với con = -5.59 là: E = [32.0, 34.0, 34.0, 40.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = 0.52 là: E = [28.0, 32.0, 32.0, 28.0, 16.0], tổng sai số: 136.0
+Sai số ứng với con = -5.26 là: E = [32.0, 34.0, 34.0, 42.0, 42.0], tổng sai số: 184.0
+Sai số: [28.0, 32.0, 32.0, 28.0, 16.0]. Tổng: 136.0
+Lần chạy thứ 1
+Xét trọng số thứ 3 của ma trận B:
+Tập cha mẹ: [[-3.17, -3.92], [4.34, -0.39], [-8.0, 1.16], [-9.46, 5.83], [7.87, -4.65], [-6.0, -9.29], [-4.99, 2.02], [8.4, -0.03], [-0.94, 2.09], [5.51, -3.25], [8.75, -3.53], [-7.38, -3.75], [8.9, 1.37], [-9.59, 1.3], [-4.6, 4.65], [-2.72, -1.31], [9.1, 9.16], [5.39, 4.06], [6.42, 4.88], [-5.36, 0.67]]
+Tập con: [-4.92, 4.39, -8.16, -10.83, 7.65, -6.29, -5.02, 8.03, -1.09, 5.25, 8.53, -8.75, 8.37, -10.3, -5.65, -3.31, 9.16, 5.06, 6.88, -6.67]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = -4.92 là: E = [30.0, 28.0, 30.0, 38.0, 40.0], tổng sai số: 166.0
+Sai số ứng với con = 4.39 là: E = [26.0, 30.0, 30.0, 36.0, 36.0], tổng sai số: 158.0
+Sai số ứng với con = -8.16 là: E = [34.0, 36.0, 32.0, 42.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = -10.83 là: E = [36.0, 36.0, 36.0, 40.0, 50.0], tổng sai số: 198.0
+Sai số ứng với con = 7.65 là: E = [28.0, 30.0, 26.0, 40.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = -6.29 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = -5.02 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = 8.03 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = -1.09 là: E = [28.0, 32.0, 32.0, 30.0, 18.0], tổng sai số: 140.0
+Sai số ứng với con = 5.25 là: E = [26.0, 30.0, 30.0, 34.0, 36.0], tổng sai số: 156.0
+Sai số ứng với con = 8.53 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = -8.75 là: E = [34.0, 36.0, 34.0, 42.0, 44.0], tổng sai số: 190.0
+Sai số ứng với con = 8.37 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = -10.3 là: E = [34.0, 36.0, 36.0, 40.0, 50.0], tổng sai số: 196.0
+Sai số ứng với con = -5.65 là: E = [32.0, 34.0, 34.0, 40.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = -3.31 là: E = [32.0, 32.0, 36.0, 42.0, 38.0], tổng sai số: 180.0
+Sai số ứng với con = 9.16 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = 5.06 là: E = [26.0, 30.0, 30.0, 34.0, 36.0], tổng sai số: 156.0
+Sai số ứng với con = 6.88 là: E = [26.0, 30.0, 30.0, 36.0, 38.0], tổng sai số: 160.0
+Sai số ứng với con = -6.67 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số: [28.0, 32.0, 32.0, 28.0, 16.0]. Tổng: 136.0
+Lần chạy thứ 1
+Xét trọng số thứ 4 của ma trận B:
+Tập cha mẹ: [[-5.41, 7.5], [2.1, -8.45], [5.8, 2.83], [1.8, 4.89], [-6.31, 8.42], [2.53, 4.3], [4.78, -1.86], [-3.18, -2.76], [-7.08, -8.56], [-4.39, 9.09], [-3.03, -6.95], [-7.46, -3.51], [-5.8, -5.44], [9.52, -3.09], [0.8, -2.88], [8.57, 0.91], [8.04, 4.8], [-4.24, 5.8], [-1.74, 3.46], [-5.85, -3.06]]
+Tập con: [-6.5, 2.45, 5.83, 1.89, -7.42, 2.3, 4.86, -4.76, -8.56, -5.09, -4.95, -8.51, -6.44, 9.09, 0.88, 8.91, 8.8, -5.8, -2.46, -6.06]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = -6.5 là: E = [32.0, 46.0, 42.0, 42.0, 46.0], tổng sai số: 208.0
+Sai số ứng với con = 2.45 là: E = [26.0, 28.0, 32.0, 28.0, 20.0], tổng sai số: 134.0
+Sai số ứng với con = 5.83 là: E = [26.0, 30.0, 30.0, 34.0, 36.0], tổng sai số: 156.0
+Sai số ứng với con = 1.89 là: E = [26.0, 28.0, 32.0, 28.0, 16.0], tổng sai số: 130.0
+Sai số ứng với con = -7.42 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = 2.3 là: E = [26.0, 28.0, 32.0, 26.0, 20.0], tổng sai số: 132.0
+Sai số ứng với con = 4.86 là: E = [26.0, 30.0, 30.0, 36.0, 36.0], tổng sai số: 158.0
+Sai số ứng với con = -4.76 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -8.56 là: E = [34.0, 36.0, 34.0, 42.0, 44.0], tổng sai số: 190.0
+Sai số ứng với con = -5.09 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -4.95 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -8.51 là: E = [34.0, 36.0, 34.0, 42.0, 44.0], tổng sai số: 190.0
+Sai số ứng với con = -6.44 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = 9.09 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = 0.88 là: E = [28.0, 32.0, 32.0, 28.0, 16.0], tổng sai số: 136.0
+Sai số ứng với con = 8.91 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = 8.8 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = -5.8 là: E = [32.0, 34.0, 34.0, 40.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = -2.46 là: E = [32.0, 32.0, 36.0, 36.0, 36.0], tổng sai số: 172.0
+Sai số ứng với con = -6.06 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số: [26.0, 28.0, 32.0, 28.0, 16.0]. Tổng: 130.0
+Lần chạy thứ 1
+Xét trọng số thứ 5 của ma trận B:
+Tập cha mẹ: [[1.97, -4.16], [1.89, -7.26], [-6.48, -4.36], [6.48, 8.79], [-6.87, -1.3], [-9.05, 1.24], [2.47, 8.76], [-4.24, -6.66], [-5.86, -3.02], [-9.5, 3.4], [1.23, 7.51], [3.11, 4.15], [7.12, -1.03], [-8.3, -4.33], [-8.01, -9.84], [9.68, -2.52], [-2.33, 5.91], [-1.11, -1.8], [-8.63, -2.53], [2.52, 8.93]]
+Tập con: [1.16, 1.26, -7.36, 6.79, -7.3, -10.24, 2.76, -5.66, -6.02, -10.4, 1.51, 3.15, 7.03, -9.33, -9.84, 9.52, -3.91, -2.8, -9.53, 2.93]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = 1.16 là: E = [28.0, 30.0, 32.0, 34.0, 34.0], tổng sai số: 158.0
+Sai số ứng với con = 1.26 là: E = [28.0, 32.0, 32.0, 28.0, 16.0], tổng sai số: 136.0
+Sai số ứng với con = -7.36 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = 6.79 là: E = [26.0, 30.0, 30.0, 36.0, 38.0], tổng sai số: 160.0
+Sai số ứng với con = -7.3 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = -10.24 là: E = [34.0, 36.0, 36.0, 40.0, 50.0], tổng sai số: 196.0
+Sai số ứng với con = 2.76 là: E = [26.0, 28.0, 32.0, 30.0, 28.0], tổng sai số: 144.0
+Sai số ứng với con = -5.66 là: E = [32.0, 34.0, 34.0, 40.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = -6.02 là: E = [32.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 186.0
+Sai số ứng với con = -10.4 là: E = [34.0, 36.0, 36.0, 40.0, 50.0], tổng sai số: 196.0
+Sai số ứng với con = 1.51 là: E = [28.0, 30.0, 32.0, 28.0, 16.0], tổng sai số: 134.0
+Sai số ứng với con = 3.15 là: E = [26.0, 28.0, 32.0, 32.0, 34.0], tổng sai số: 152.0
+Sai số ứng với con = 7.03 là: E = [26.0, 30.0, 26.0, 38.0, 38.0], tổng sai số: 158.0
+Sai số ứng với con = -9.33 là: E = [34.0, 34.0, 36.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = -9.84 là: E = [34.0, 36.0, 34.0, 40.0, 50.0], tổng sai số: 194.0
+Sai số ứng với con = 9.52 là: E = [26.0, 28.0, 26.0, 42.0, 40.0], tổng sai số: 162.0
+Sai số ứng với con = -3.91 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -2.8 là: E = [32.0, 34.0, 36.0, 36.0, 38.0], tổng sai số: 176.0
+Sai số ứng với con = -9.53 là: E = [34.0, 36.0, 36.0, 40.0, 48.0], tổng sai số: 194.0
+Sai số ứng với con = 2.93 là: E = [26.0, 28.0, 32.0, 30.0, 34.0], tổng sai số: 150.0
+Sai số: [26.0, 28.0, 32.0, 28.0, 16.0]. Tổng: 130.0
+Lần chạy thứ 1
+Xét trọng số I
+Tập cha mẹ: [[-5.41, 4.24], [-7.61, -3.81], [-3.67, 8.58], [3.36, -1.4], [7.64, -4.1], [0.31, -5.79], [-0.64, 4.74], [2.2, 0.01], [-1.65, -8.55], [3.58, 0.87], [7.62, -9.93], [4.13, -6.49], [-8.19, -9.03], [-4.64, -8.7], [3.84, 7.15], [-1.14, -3.1], [-3.79, -1.19], [-6.27, -1.37], [3.49, 8.45], [5.82, -8.85]]
+Tập con: [-6.24, -8.81, -4.58, 3.4, 7.1, 0.79, -1.74, 2.01, -2.55, 3.87, 7.93, 4.49, -9.03, -5.7, 3.15, -2.1, -4.19, -7.37, 3.45, 5.85]
+Xét từng cặp cha mẹ:
+Sai số ứng với con = -6.24 là: E = [34.0, 20.0, 50.0, 48.0, 34.0], tổng sai số: 186.0
+Sai số ứng với con = -8.81 là: E = [34.0, 36.0, 34.0, 42.0, 44.0], tổng sai số: 190.0
+Sai số ứng với con = -4.58 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = 3.4 là: E = [26.0, 28.0, 32.0, 34.0, 34.0], tổng sai số: 154.0
+Sai số ứng với con = 7.1 là: E = [26.0, 30.0, 26.0, 38.0, 38.0], tổng sai số: 158.0
+Sai số ứng với con = 0.79 là: E = [28.0, 32.0, 32.0, 28.0, 16.0], tổng sai số: 136.0
+Sai số ứng với con = -1.74 là: E = [30.0, 32.0, 36.0, 30.0, 18.0], tổng sai số: 146.0
+Sai số ứng với con = 2.01 là: E = [26.0, 28.0, 32.0, 28.0, 18.0], tổng sai số: 132.0
+Sai số ứng với con = -2.55 là: E = [32.0, 32.0, 36.0, 36.0, 36.0], tổng sai số: 172.0
+Sai số ứng với con = 3.87 là: E = [26.0, 30.0, 30.0, 36.0, 34.0], tổng sai số: 156.0
+Sai số ứng với con = 7.93 là: E = [26.0, 30.0, 26.0, 42.0, 40.0], tổng sai số: 164.0
+Sai số ứng với con = 4.49 là: E = [26.0, 30.0, 30.0, 36.0, 36.0], tổng sai số: 158.0
+Sai số ứng với con = -9.03 là: E = [34.0, 36.0, 36.0, 42.0, 44.0], tổng sai số: 192.0
+Sai số ứng với con = -5.7 là: E = [32.0, 34.0, 34.0, 40.0, 42.0], tổng sai số: 182.0
+Sai số ứng với con = 3.15 là: E = [26.0, 28.0, 32.0, 32.0, 34.0], tổng sai số: 152.0
+Sai số ứng với con = -2.1 là: E = [30.0, 32.0, 36.0, 30.0, 22.0], tổng sai số: 150.0
+Sai số ứng với con = -4.19 là: E = [32.0, 34.0, 36.0, 42.0, 40.0], tổng sai số: 184.0
+Sai số ứng với con = -7.37 là: E = [34.0, 36.0, 34.0, 40.0, 44.0], tổng sai số: 188.0
+Sai số ứng với con = 3.45 là: E = [26.0, 28.0, 32.0, 34.0, 34.0], tổng sai số: 154.0
+Sai số ứng với con = 5.85 là: E = [26.0, 30.0, 30.0, 34.0, 36.0], tổng sai số: 156.0
+Sai số: [26.0, 28.0, 32.0, 28.0, 16.0]. Tổng: 130.0
+A = [[ -2.54   1.75   0.  ]
+ [-10.07   1.89 -10.07]
+ [  0.     1.75  -2.54]]
+B = [[ 0.   -4.84  0.  ]
+ [ 0.    0.    0.  ]
+ [ 0.   -4.84  0.  ]]
+I = 1.0
+Lần chạy thứ 2
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [26.0, 28.0, 32.0, 28.0, 16.0]. Tổng: 130.0
+Lần chạy thứ 2
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [26.0, 28.0, 32.0, 28.0, 16.0]. Tổng: 130.0
+Lần chạy thứ 2
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [26.0, 28.0, 32.0, 28.0, 16.0]. Tổng: 130.0
+Lần chạy thứ 2
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [8.0, 0.0, 10.0, 6.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 2
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [8.0, 0.0, 10.0, 6.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 2
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [6.0, 0.0, 10.0, 8.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 2
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [6.0, 0.0, 10.0, 8.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 2
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [8.0, 0.0, 10.0, 6.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 2
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [6.0, 0.0, 10.0, 8.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 2
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [6.0, 0.0, 10.0, 8.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 2
+Xét trọng số I
+Sai số: [8.0, 0.0, 10.0, 6.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 3
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [8.0, 0.0, 10.0, 6.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 3
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [8.0, 0.0, 10.0, 6.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 3
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [8.0, 0.0, 10.0, 6.0, 0.0]. Tổng: 24.0
+Lần chạy thứ 3
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 3
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 3
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 3
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 3
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 3
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 3
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 3
+Xét trọng số I
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 4
+Xét trọng số I
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 5
+Xét trọng số I
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 8.0, 2.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 8.0, 2.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 6
+Xét trọng số I
+Sai số: [2.0, 2.0, 8.0, 6.0, 2.0]. Tổng: 20.0
+Lần chạy thứ 7
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 8.0, 2.0]. Tổng: 20.0
+Lần chạy thứ 7
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [6.0, 0.0, 8.0, 6.0, 0.0]. Tổng: 20.0
+Lần chạy thứ 7
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 7
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 8
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 9
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 10
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 11
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 12
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 13
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 14
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 15
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 16
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 17
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 18
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 19
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 20
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 21
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 22
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 23
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 24
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 25
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 26
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 27
+Xét trọng số I
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 2.0, 8.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [4.0, 2.0, 4.0, 6.0, 2.0]. Tổng: 18.0
+Lần chạy thứ 28
+Xét trọng số I
+Sai số: [4.0, 2.0, 6.0, 6.0, 0.0]. Tổng: 18.0
+Lần chạy thứ 29
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 4.0, 8.0, 2.0]. Tổng: 16.0
+Lần chạy thứ 29
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 4.0, 8.0, 2.0]. Tổng: 16.0
+Lần chạy thứ 29
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [4.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 14.0
+Lần chạy thứ 29
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [4.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 14.0
+Lần chạy thứ 29
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [4.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 14.0
+Lần chạy thứ 29
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [4.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 14.0
+Lần chạy thứ 29
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [4.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 14.0
+Lần chạy thứ 29
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 29
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 29
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 29
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 30
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 31
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 32
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 33
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 34
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 35
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 36
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 37
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 38
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 39
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 40
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 41
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 42
+Xét trọng số I
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 5 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 1 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 2 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 3 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 4 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số thứ 5 của ma trận B:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 43
+Xét trọng số I
+Sai số: [0.0, 0.0, 0.0, 10.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 44
+Xét trọng số thứ 1 của ma trận A:
+Sai số: [0.0, 0.0, 0.0, 10.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 44
+Xét trọng số thứ 2 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 44
+Xét trọng số thứ 3 của ma trận A:
+Sai số: [2.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 12.0
+Lần chạy thứ 44
+Xét trọng số thứ 4 của ma trận A:
+Sai số: [0.0, 0.0, 0.0, 8.0, 2.0]. Tổng: 10.0
+Đạt đến mức sai số cho phép
+Bộ trọng sau khi tối ưu: 
+A = [[-1.68  1.75  0.  ]
+ [-2.87  7.44 -2.87]
+ [ 0.    1.75 -1.68]]
+B = [[ 0.   -4.59 -1.52]
+ [ 0.    0.07  0.  ]
+ [-1.52 -4.59  0.  ]]
+I = 1.27
+y[0] = 
+[[ 1.  1.  1. -1.  1.  1. -1. -1.]
+ [ 1.  1.  1. -1.  1.  1. -1. -1.]
+ [ 1.  1. -1.  1. -1.  1.  1. -1.]
+ [ 1.  1. -1.  1. -1.  1.  1.  1.]
+ [ 1. -1.  1.  1.  1. -1.  1.  1.]
+ [ 1. -1.  1.  1.  1. -1.  1.  1.]
+ [-1.  1.  1.  1.  1.  1. -1.  1.]
+ [-1. -1. -1. -1. -1. -1. -1.  1.]]
+y[1] = 
+[[-1. -1. -1. -1.  1.  1.  1.  1.]
+ [-1.  1.  1. -1.  1. -1. -1. -1.]
+ [-1.  1.  1. -1.  1. -1.  1. -1.]
+ [-1. -1. -1. -1.  1. -1. -1. -1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.]
+ [-1. -1. -1. -1. -1. -1. -1.  1.]
+ [-1.  1.  1.  1.  1.  1. -1.  1.]
+ [-1. -1. -1. -1. -1. -1. -1.  1.]]
+y[2] = 
+[[ 1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1. -1. -1. -1.  1.  1.]
+ [ 1.  1. -1.  1.  1. -1.  1.  1.]
+ [ 1. -1.  1.  1.  1.  1. -1.  1.]
+ [ 1. -1.  1.  1.  1.  1. -1.  1.]
+ [ 1. -1. -1.  1.  1. -1.  1.  1.]
+ [ 1.  1.  1. -1. -1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.]]
+y[3] = 
+[[ 1.  1. -1. -1. -1. -1.  1.  1.]
+ [-1. -1. -1.  1.  1.  1. -1.  1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [ 1. -1.  1.  1.  1.  1.  1. -1.]
+ [ 1.  1. -1. -1. -1.  1.  1. -1.]
+ [ 1.  1.  1.  1. -1. -1. -1. -1.]]
+y[4] = 
+[[-1. -1. -1. -1. -1. -1. -1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1.  1.  1.  1.  1.  1.  1. -1.]
+ [-1. -1. -1. -1. -1. -1. -1.  1.]]
