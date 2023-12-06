@@ -58,7 +58,7 @@ Tiến độ hiện tại với mạng Nơ-ron tế bào bậc nhất (CeNN) ch�
   - Nhận xét: Việc tăng số lượng bộ cha mẹ sẽ làm tăng thời gian chạy của vòng lặp nhỏ (tối ưu một trọng số). Nhưng làm giảm số lần chạy của vòng lặp lớn (duyệt toàn bộ các trọng số trong quần thể). Con số tối ưu cho số lượng cha mẹ là khoảng 20.
 - Kết luận chung: Kết quả tốt, tìm được nhiều bộ trọng số có thể lọc biên ảnh. Cần có thuật toán để chọn cha mẹ và điểm lai thay vì chọn ngẫu nhiên. Tạm thời đóng lại phần mạng Nơ-ron tế bào bậc nhất.
 
-Tiến độ hiện tại với mạng Nơ-ron tế bào bậc hai (SOCNNs) chạy GA lai
+Tiến độ hiện tại với mạng Nơ-ron tế bào bậc hai (SOCeNNs) chạy GA lai
 - Về ma trận đầu vào: 
   - chạy được với ma trận 8x8 và 10x10 (chỉ cần giảm độ chênh lệch giữa t0 với t1 là sẽ giảm được tỉ lệ bị lỗi phương trình vi phân)
   - ma trận 10x10 thường xuyên gặp lỗi phương trình vi phân, ma trận 8x8 ít khi gặp lỗi
