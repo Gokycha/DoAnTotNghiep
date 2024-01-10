@@ -1,0 +1,12 @@
+Nội dung rất dài. cần trình bày ngắn, có cấu trúc và đúng trọng tâm. 10 phút trình bày
+Cấu trúc dự kiến:
+- Mạng nơ ron tế bào bậc 1 bậc 2 là gì lướt nhanh
+- trọng số của mạng nơ ron tế bào bậc 2 là gì, tại sao cần phải xác định
+- giải thuật di truyền là gì, tại sao chọn
+
+Một số câu hỏi khác
+- tại sao chọn bài toán tách biên, mạng nơ ron có học được bài toán khác hay không?
+- mạng tế bào bậc nhất và bậc hai khác nhau chỗ nào
+-...
+
+Lưu ý. Chỉ có 10 phút trình bày
