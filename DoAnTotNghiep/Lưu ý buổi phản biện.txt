@@ -10,3 +10,14 @@ Một số câu hỏi khác
 -...
 
 Lưu ý. Chỉ có 10 phút trình bày
+
+Bố cục thuyết trình:
+1. Phân loại mạng nơ ron
+2. Mạng nơ ron tế bào bậc 1: đầu vào đầu ra, 11 trọng số
+3. Mạng nơ ron tế bào bậc 2: 101 trọng số.
+4. tại sao phải xác định trọng số?
+5. Giải thuật di truyền
+6. giải thuật di truyền cho mạng nơ ron tế bào bậc hai: mô tả mẫu đầu vào
+7. phần thực nghiệm: lướt nhanh
+8. Phần đánh giá: nhận xét khả năng học, khả năng tách biên
+9. bài báo, tạp trí, đồng tác giả
