@@ -1,21 +1,27 @@
-Đây là Git của Phạm Duy Tuấn để làm đồ án tốt nghiệp. Nếu nó được Public thì nghĩa là tôi đã thành công :)))
-
-Thời gian bắt đầu: 05/10/2023
-
-Thời gian kết thúc (dự kiến): 12/2023
-
-# ĐỒ ÁN TỐT NGHIỆP
-**<br>Đề tài: Dùng thuật toán di truyền để tìm trọng số cho mạng nơ-ron tế bào</br>
-<br>Sinh viên: Phạm Duy Tuấn</br>
-<br>Mã sinh viên: B19DCCN618</br>
-<br>Lớp: B19CNPM02</br>
-<br>Giáo viên hướng dẫn: Nguyễn Quang Hoan</br>**
 
 ## Mục lục
+<br>[Hướng dẫn cài đặt](#HuongDanCaiDat)</br>
 <br>[Các thuật ngữ](#ThuatNgu)</br>
 <br>[Tài liệu](#TaiLieu)</br>
 
 ===================================
+<a name="HuongDanCaiDat"></a>
+## Hướng dẫn cài đặt
+### Cài đặt code editor
+- Tải và cài đặt phần mềm lập trình ***visual studio code*** (https://code.visualstudio.com/docs/?dv=win64user)
+- Sau khi cài đặt ***visual studio code***, mở project ***Mạng nơ ron tế bào*** bằng ***visual studio code***.
+- Trong giao diện ***visual studio code***, vào phần ***Extensions***, tìm và cài đặt các extension sau:
+![alt text](image.png)
+### Cài đặt môi trường
+- Cài đặt python (https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
+- Sau khi cài đặt Python, mở cmd lên và chạy lệnh sau để cài đặt các thư viện.
+```bash
+python -m ensurepip
+python -m pip install numba scipy numpy pillow
+```
+### Lưu ý
+- Trong quá trình chạy mà vs code yêu cầu cài đặt Jupyter Kernels thì cứ đồng ý.
+
 <a name="ThuatNgu"></a>
 ## Các thuật ngữ
 - Thuật toán di truyền
